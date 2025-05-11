@@ -1,0 +1,17 @@
+ package com.java.Intro_to_Java;
+
+public class Operators {
+
+	int a = 10;
+	int b = 5;
+	int c = 10;
+	int d = a+b;
+	int e =a-b;
+	int f = a*b;
+	int g = a/b;
+	int h  = a%b;
+	int i = b%a;
+	System.out.println(d);
+	System.out.println(e);
+	System.out.println(a>b);
+}

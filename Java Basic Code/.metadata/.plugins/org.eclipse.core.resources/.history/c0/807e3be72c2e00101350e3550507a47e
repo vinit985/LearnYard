@@ -1,0 +1,19 @@
+package com.java.Intro_to_Java;
+
+public class Variable_DataType {
+
+	public static void main(String[] args)
+	{
+		int a = 5;
+		System.out.println(a);
+		Object aa = (Object)a;
+		System.out.println(aa.getClass().getName());
+		System.out.println("a");
+		long b =1000L;
+		System.out.println(b);
+		Object bb = (Object)b;
+		System.out.println(bb.getClass().getName());
+		float a = 3.45f;
+
+	}
+}

@@ -1,0 +1,10 @@
+package com.java.Intro_to_Java_homework;
+
+public class SumTwoNum {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
